@@ -1,6 +1,6 @@
 # 学   员：jiangwei
 # 开发时间：2021/7/14 10:50
-from ticket_test import MyTestCase
+from page.ticket_test import MyTestCase
 
 leave = '成都'
 leave_date = "2021-8-20"

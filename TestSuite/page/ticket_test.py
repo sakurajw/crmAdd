@@ -1,6 +1,6 @@
 import unittest
-from T252.PO模式练习.page.Base import base
-from T252.PO模式练习.page_object.Search import Searchpage
+from page.Base import base
+from page_object.Search import Searchpage
 import time
 import pyautogui
 class MyTestCase(unittest.TestCase):

@@ -1,6 +1,6 @@
 # 学   员：jiangwei
 # 开发时间：2021/7/14 9:55
-from T252.PO模式练习.page.Base import base
+from page.Base import base
 from selenium.webdriver.common.by import By
 import time
 import pyautogui
